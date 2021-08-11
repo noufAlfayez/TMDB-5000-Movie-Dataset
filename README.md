@@ -4,5 +4,5 @@ This data set contains information about 10,000 movies collected from The Movie 
 # Installation
 clone with https  https://github.com/noufAlfayez/TMDB-5000-Movie-Dataset.git
 
-# Usage
+# Refrences
 You can download dataset from https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
